@@ -1,1 +1,1 @@
-console.log('fajlli index.js ver 1')
+console.log('fajlli index.js ver 3')
