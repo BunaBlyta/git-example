@@ -1,0 +1,1 @@
+console.log('fajlli congfig.js ver 1')
